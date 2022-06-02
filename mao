@@ -18,6 +18,8 @@
 "spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
 //"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 
+#04 (非官方) xm jar:
+//"spider":https://github.com/jasonwingfast1968/jason/blob/main/xm.jar
 
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
