@@ -7,7 +7,7 @@
 //"spider":"https://github.com/jasonwingfast1968/jason/blob/main/S.jar",
 
 # 01.🐼 (非官方) 缝合jar
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xp/custom_spider.jar",
+//"spider":"https://github.com/jasonwingfast1968/jason/blob/main/%E7%BC%9D%E5%90%882_spider.jar",
 
 # 02.🦖 (非官方) 唐三大佬维护接口:
 # Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
