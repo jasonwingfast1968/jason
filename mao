@@ -4,7 +4,7 @@
 
 # spider
 # 00.官方jar
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
+//"spider":"https://github.com/jasonwingfast1968/jason/blob/main/S.jar",
 
 # 01.🐼 (非官方) 缝合jar
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xp/custom_spider.jar",
